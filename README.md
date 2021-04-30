@@ -33,3 +33,18 @@ isType.js works on both browsers and Node.js.
     Require module
 
 3. Done! Read the [docs](docs.md).
+
+### NPM
+
+1. Run `npm i @ksplat/istype`
+2. Done! Read the [docs](docs.md).
+
+### CDN
+
+**Development**
+
+Add this script tag: `<script defer src="https://cdn.jsdelivr.net/npm/@ksplat/istype@1.0.0/build/isType.js" ></script>`
+
+**Production**
+
+Add this script tag: `<script defer src="https://cdn.jsdelivr.net/npm/@ksplat/istype@1.0.0/build/isType.min.js" ></script>`

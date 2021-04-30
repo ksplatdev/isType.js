@@ -1,8 +1,8 @@
 {
-	"name": "istype",
+	"name": "@ksplat/istype",
 	"version": "1.0.0",
 	"description": "Simple library to check for many types.",
-	"main": "src/isType.ts",
+	"main": "build/isType.js",
 	"scripts": {
 		"test": "node test/test.js"
 	},
