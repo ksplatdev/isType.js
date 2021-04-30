@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"target": "es6",
+		"module": "UMD",
+		"removeComments": false,
+		"noImplicitAny": true,
+		"outDir": "build",
+		"strict": true
+	},
+	"files": ["src/isType.ts"],
+	"exclude": ["node_modules", "build"]
+}

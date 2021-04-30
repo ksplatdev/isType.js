@@ -1,0 +1,32 @@
+{
+	"name": "istype",
+	"version": "1.0.0",
+	"description": "Simple library to check for many types.",
+	"main": "src/isType.ts",
+	"scripts": {
+		"test": "node test/test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ksplatdev/isType.js.git"
+	},
+	"keywords": [
+		"is",
+		"type",
+		"typeof",
+		"instance",
+		"instanceof",
+		"ts",
+		"js"
+	],
+	"author": "Bleart Emini",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ksplatdev/isType.js/issues"
+	},
+	"homepage": "https://github.com/ksplatdev/isType.js#readme",
+	"devDependencies": {
+		"@types/node": "^15.0.1",
+		"typescript": "^4.2.4"
+	}
+}

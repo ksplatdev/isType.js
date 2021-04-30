@@ -1,0 +1,22 @@
+{
+	"explorer.confirmDelete": false,
+	"terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+	"editor.linkedEditing": true,
+	"editor.autoClosingDelete": "always",
+	"editor.autoIndent": "brackets",
+	"editor.codeActionsOnSave": null,
+	"liveServer.settings.donotVerifyTags": true,
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.fontLigatures": true,
+	"editor.fontFamily": "Fira Code",
+	"workbench.colorTheme": "GitHub Dark Dimmed",
+	"bracket-pair-colorizer-2.excludedLanguages": [],
+	"bracket-pair-colorizer-2.forceIterationColorCycle": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"editor.tabSize": 4,
+	"prettier.useTabs": true,
+	"prettier.tabWidth": 4,
+	"prettier.trailingComma": "es5"
+}
